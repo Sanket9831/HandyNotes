@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Handy Notes</string>
+    <string name="productLine">Notes at your finger tips.</string>
+    <string name="login">LOGIN</string>
+    <string name="logo">logo</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="enter_otp">Enter your number below, We\'ll send to you OTP</string>
+    <string name="subject">Subject</string>
+    <string name="physics">Physics</string>
+</resources>

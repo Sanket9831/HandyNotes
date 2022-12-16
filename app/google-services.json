@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "114466629621",
+    "firebase_url": "https://handy-notes-2323a-default-rtdb.firebaseio.com",
+    "project_id": "handy-notes-2323a",
+    "storage_bucket": "handy-notes-2323a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114466629621:android:dc6dce135657adee4e62bc",
+        "android_client_info": {
+          "package_name": "com.example.handynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114466629621-0idflj10267vaup2s1smsrm4meb2jodg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.handynotes",
+            "certificate_hash": "69da8d56f801b4456c25bae7593a9fa85fb5ae1b"
+          }
+        },
+        {
+          "client_id": "114466629621-u0oaiug01l87rkibi94lambc1hk9oo59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD80P2BJH0sTz1SMx7XNIZFzSDYkmYEKmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114466629621-u0oaiug01l87rkibi94lambc1hk9oo59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
